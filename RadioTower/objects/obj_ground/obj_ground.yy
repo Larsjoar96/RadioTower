@@ -30,5 +30,5 @@
     "path": "sprites/spr_ground_snow/spr_ground_snow.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
