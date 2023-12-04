@@ -50,6 +50,7 @@
     {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},},
     {"id":{"name":"spr_player_fall","path":"sprites/spr_player_fall/spr_player_fall.yy",},},
     {"id":{"name":"spr_player_landing","path":"sprites/spr_player_landing/spr_player_landing.yy",},},
+    {"id":{"name":"spr_level_2","path":"sprites/spr_level_2/spr_level_2.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"spr_ground_snow","path":"sprites/spr_ground_snow/spr_ground_snow.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
